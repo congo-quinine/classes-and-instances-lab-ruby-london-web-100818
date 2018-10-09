@@ -2,5 +2,5 @@ class Person
 #person constructor
 end  
   
-adele_gold = Person.new 
-alan_key = Person.new
+adele_goldberg = Person.new 
+alan_kay = Person.new
