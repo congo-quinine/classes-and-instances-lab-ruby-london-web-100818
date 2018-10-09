@@ -1,5 +1,5 @@
 class Dog 
-  #dog class constructer
+  #dog class constructor
 end  
 
 fido = Dog.new 
